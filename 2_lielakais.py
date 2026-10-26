@@ -1,0 +1,6 @@
+print("Otrais uzdevums!!!")
+a = float(input("Ievadi pirmo skaitli: "))
+b = float(input("Ievadi otro skaitli: "))
+c = float(input("Ievadi trešo skaitli: "))
+lielakais = max(a, b, c)
+print("Lielākais skaitlis:", lielakais)
