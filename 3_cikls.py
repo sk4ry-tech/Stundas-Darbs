@@ -1,4 +1,3 @@
-print("Trešais uzdevums!!!")
 n = int(input("Ievadi skaitli n: "))
 summa = 0
 for i in range(1, n + 1):
